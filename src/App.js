@@ -1,5 +1,5 @@
 import './App.css';
-import ConversationPDFGenerator from './ConersationPdfGenerator';
+import ConversationPDFGenerator from './components/ConersationPdfGenerator';
 
 function App() {
   return (
